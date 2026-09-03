@@ -1,0 +1,21 @@
+# Internal working memory — not part of the published notes
+.claude-memory/
+.claude/
+
+# Old-repo reference commands — local source material only, never published
+Linux/Linux-RTR/
+
+# Personal SANS course indexes — working reference only, never published
+Purple Teaming/FOR560 Index.xlsx
+
+# Obsidian local workspace/UI state (keep the notes, drop machine-specific config)
+.obsidian/
+
+# macOS cruft
+.DS_Store
+._*
+.Spotlight-V100
+.Trashes
+.fseventsd
+
+# Cleanup attempt
